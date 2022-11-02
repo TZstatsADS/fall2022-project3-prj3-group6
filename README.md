@@ -13,7 +13,7 @@ Term: Fall 2022
 	+ Limaye, Dhruv
 	+ Wu, Judy
 
-+ Project summary: In this project, we created two models for image classification. First model is... Second model is... Overall...
++ Project summary: In this project, we created two models for image classification. In our first model, we used the CNN model from Tensorflow... Second model is... Overall...
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
